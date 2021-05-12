@@ -1,4 +1,13 @@
 ### Hi there 👋
+## Welcome!
+* As you can see, this special README.md was created accidentally when I create a repository named _efJerryYang_.
+* Ha, a surprise, right?
+
+## Who I am?
+* My name is Jerry Yang, direct transliteration of my Chinese name. _ef_ is short for Eternal flames, inspired by Rowling's harry potter series: the goblet of fire (the 4th one).
+* A student currently studying computer science in HITSZ in China.
+* Hmmm, started to watch an anime, vivy, a quite interesting story about AI to destroy AIs. (Actually, my second watched anime, the previous one is Pokemon.
+
 
 <!--
 **efJerryYang/efJerryYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
