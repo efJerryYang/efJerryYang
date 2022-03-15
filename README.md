@@ -2,7 +2,10 @@
 ## Welcome!
 
 ## Who I am?
-- I'm Jerry Yang, a CS student currently studying in HITsz.
+
+- I'm Jerry Yang, currently a CS student at HITSZ.
+- Especially interested in nlp but still in general practice with deep learning, and may start learning about cybersecurity in the next few months.
+- Hope to make a little money using automatic trading strategies - maybe build a stock trading bot?
 <!--
 **efJerryYang/efJerryYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
