@@ -1,24 +1,17 @@
-## Hi there 👋
+<!-- ## Welcome -->
 
-## Welcome
-
-## Who I am?
+## About Me
 
 - I'm Jerry Yang, currently a CS student at HITSZ.
 - Especially interested in NLP but still in general practice with deep learning, and start learning about cybersecurity.
 - Hope to make a little money using automatic trading strategies - maybe build a stock trading bot?
 - Always keep up with the latest news about protein design!
+
+## GitHub Stats
+
+| <a href="https://github.com/efJerryYang/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=efJerryYang&count_private=true&show_icons=true&hide_border=true&theme=default" alt="efJerryYang's GitHub stats" /></a> | <a href="https://github.com/efJerryYang/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efJerryYang&hide=jupyter%20notebook,assembly&langs_count=6&layout=compact&hide_border=true" /></a>|
+| ----------------- | ----------------- |
+
 <!--
-**efJerryYang/efJerryYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+https://github.com/anuraghazra/github-readme-stats -->
