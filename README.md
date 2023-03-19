@@ -2,10 +2,9 @@
 
 ## About Me
 
-- I'm Jerry Yang, currently a CS student at HITSZ.
-- Especially interested in NLP but still in general practice with deep learning, and start learning about cybersecurity.
-- Hope to make a little money using automatic trading strategies - maybe build a stock trading bot?
-- Always keep up with the latest news about protein design!
+- I'm Jerry Yang, a CS student at HITSZ.
+- Currently focusing on operating system, have some knowledge about machine learning and networking.
+- Interested in building a stock trading bot using automatic trading strategies.
 
 ## GitHub Stats
 
