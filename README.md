@@ -2,9 +2,9 @@
 
 ## About Me
 
-- I'm Jerry Yang, a CS student at HITSZ.
-- Currently focusing on operating system, have some knowledge about machine learning and networking.
-- Interested in building a stock trading bot using automatic trading strategies.
+- I'm Jerry Yang, a CS student at HITSZ. I will start pursuing MS CSE (CS76) at UCSD in Fall 2024.
+- Currently focusing on synthesis, have some knowledge about operating system and machine learning.
+- Always interested in building a stock trading bot using automated trading strategies. <!-- You can find me @... in https://www.quantconnect.com/ -->
 
 ## GitHub Stats
 
