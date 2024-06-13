@@ -22,6 +22,7 @@ https://github.com/anuraghazra/github-readme-stats -->
 
 <!-- <script src='https://www.quantconnect.com/terminal/backtest.js?sid=6aff58f34f544ef36eda9fa1dd215f05'></script> -->
 
-[Strategy Equity Chart](https://www.efjerryyang.top/qc-backtesting-results/)
+<!-- ![[Strategy Equity Chart](https://www.efjerryyang.top/qc-backtesting-results/)](./assets/StockChart.png) -->
+<a href="https://www.efjerryyang.top/qc-backtesting-results/"><img src="./assets/StockChart.png" alt="StockChart" width="90%"/></a>
 
-### Live Trading
+<!-- ### Live Trading -->
