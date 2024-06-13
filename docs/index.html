@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <title>Strategy Equity Plot</title>
+
+  <script src="https://cdn.syncfusion.com/ej2/dist/ej2.min.js" type="text/javascript"></script>
+  <link href="https://cdn.syncfusion.com/ej2/material.css" rel="stylesheet" />
+  <style>
+    .custom-tooltip {
+      background-color: rgba(0, 0, 0, 0.75);
+      color: white;
+      padding: 10px;
+      border-radius: 5px;
+      font-size: 12px;
+      position: relative;
+    }
+  </style>
+</head>
+<body>
+  <div id="container" style="width: 600px; height: 400px"></div>
+  <div id="error" style="color: red"></div>
+
+  <script>
+    function formatDate(date) {
+      const d = new Date(date);
+      const year = d.getFullYear();
+      const month = String(d.getMonth() + 1).padStart(2, '0');
+      const day = String(d.getDate()).padStart(2, '0');
+      return `${year}-${month}-${day}`;
+    }
+
+    window.onload = function () {
+      fetch("../assets/qc_backtest.json")
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error("Network response was not ok " + response.statusText);
+          }
+          return response.json();
+        })
+        .then((data) => {
+          const equityValues = data.charts["Strategy Equity"].series.Equity.values;
+          const returnValues = data.charts["Strategy Equity"].series.Return.values;
+
+          // Parse the data for the candlestick chart
+          const parsedData = equityValues.map((value) => {
+            return {
+              x: new Date(value[0] * 1000), // Convert timestamp to Date object
+              open: value[1], // Open
+              high: value[2], // High
+              low: value[3], // Low
+              close: value[4], // Close
+            };
+          });
+
+          // Parse the data for the return bars
+          const parsedReturnData = returnValues.map((value) => {
+            return {
+              x: new Date(value[0] * 1000), // Convert timestamp to Date object
+              y: value[1], // Return value
+            };
+          });
+
+          var stockChart = new ej.charts.StockChart({
+            title: "Strategy Equity and Return",
+            primaryYAxis: {
+              title: "Stock Prices",
+            },
+            primaryXAxis: {
+              valueType: "DateTime",
+              title: "Months",
+            },
+            enableSelector: false,
+            seriesType: [],
+            indicatorType: [],
+            trendlineType: [],
+            enableCustomRange: false,
+            rows: [{ height: "30%" }, { height: "70%" }],
+            axes: [
+              {
+                name: "yAxis1",
+                rowIndex: 0,
+              },
+              {
+                name: "yAxis2",
+                rowIndex: 1,
+              },
+            ],
+            series: [
+              {
+                dataSource: parsedData,
+                enableSolidCandles: true,
+                type: "Candle",
+                yAxisName: "yAxis2",
+                xName: "x",
+                open: "open",
+                high: "high",
+                low: "low",
+                close: "close",
+                name: "Equity",
+              },
+              {
+                dataSource: parsedReturnData,
+                type: "Column",
+                yAxisName: "yAxis1",
+                xName: "x",
+                yName: "y",
+                name: "Return",
+              },
+            ],
+            tooltip: {
+              enable: true,
+              shared: true,
+              template:
+                '<div class="custom-tooltip">${x}<br/>Open: ${open}<br/>High: ${high}<br/>Low: ${low}<br/>Close: ${close}</div>',
+            },
+            crosshair: {
+              enable: true,
+              lineType: 'Vertical',
+              line: {
+                width: 1,
+                color: '#888888',
+                dashArray: '4,4'
+              },
+              tooltip: {
+                enable: true
+              }
+            }
+          });
+
+          stockChart.appendTo("#container");
+        })
+        .catch((error) => {
+          console.error("Error fetching the JSON data:", error);
+          document.getElementById("error").textContent =
+            "Error fetching the JSON data: " + error.message;
+        });
+    };
+  </script>
+</body>
+</html>
