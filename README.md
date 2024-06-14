@@ -25,4 +25,6 @@ https://github.com/anuraghazra/github-readme-stats -->
 <!-- ![[Strategy Equity Chart](https://www.efjerryyang.top/qc-backtesting-results/)](./assets/StockChart.png) -->
 <a href="https://www.efjerryyang.top/qc-backtesting-results/"><img src="./assets/StockChart.png" alt="StockChart" width="90%"/></a>
 
-<!-- ### Live Trading -->
+### Live Trading
+
+TODO
