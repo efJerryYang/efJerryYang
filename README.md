@@ -2,7 +2,7 @@
 
 ## About Me
 
-- I'm Jerry Yang, MS CSE (CS76) at UCSD. I am actively seeking 25 summer internships and full-time positions afterwards.
+- I'm Jerry Yang, MS CSE (CS76) at UC San Diego. I am actively seeking 25 summer internships and full-time positions afterwards.
 - Currently focusing on backend development, have some knowledge about functional programming, operating system and machine learning.
 - Always interested in building a stock trading bot using automated trading strategies. <!-- You can find me @... in https://www.quantconnect.com/ -->
 
