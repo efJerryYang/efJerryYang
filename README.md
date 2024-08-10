@@ -2,8 +2,8 @@
 
 ## About Me
 
-- I'm Jerry Yang, a CS student at HITSZ. I will start pursuing MS CSE (CS76) at UCSD in Fall 2024.
-- Currently focusing on synthesis, have some knowledge about operating system and machine learning.
+- I'm Jerry Yang, MS CSE (CS76) at UCSD. I am actively seeking 25 summer internships and full-time positions afterwards.
+- Currently focusing on backend development, have some knowledge about functional programming, operating system and machine learning.
 - Always interested in building a stock trading bot using automated trading strategies. <!-- You can find me @... in https://www.quantconnect.com/ -->
 
 ## GitHub Stats
@@ -16,15 +16,18 @@
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
 https://github.com/anuraghazra/github-readme-stats -->
 
+<!--
 ## Quant Connect
 
 ### Backtest
-
+-->
 <!-- <script src='https://www.quantconnect.com/terminal/backtest.js?sid=6aff58f34f544ef36eda9fa1dd215f05'></script> -->
 
 <!-- ![[Strategy Equity Chart](https://www.efjerryyang.top/qc-backtesting-results/)](./assets/StockChart.png) -->
-<a href="https://www.efjerryyang.top/qc-backtesting-results/"><img src="./assets/StockChart.png" alt="StockChart" width="90%"/></a>
+<!-- <a href="https://www.efjerryyang.top/qc-backtesting-results/"><img src="./assets/StockChart.png" alt="StockChart" width="90%"/></a> -->
 
+<!--
 ### Live Trading
 
 TODO
+-->
