@@ -1,10 +1,8 @@
-<!-- ## Welcome -->
-
 ## About Me
 
-- I'm Jerry Yang, MS CSE (CS76) at UC San Diego. I am actively seeking 25 summer internships and full-time positions afterwards.
-- Currently focusing on quantitative trading and backend development, with a solid foundation in functional programming, operating system and machine learning.
-- Always interested in building a stock trading bot using automated trading strategies. <!-- You can find me @... in https://www.quantconnect.com/ -->
+- I'm Jerry Yang, MS CSE (CS76) **@UCSD**. Incoming SDE Intern **@Amazon** for Summer 2025.
+- Currently focusing on option trading and backend development, with a solid foundation in functional programming, operating systems and machine learning.
+- Actively exploring **@QuantConnect** open-source trading engine LEAN and planning for future concrete contributions.
 
 ## GitHub Stats
 
@@ -15,19 +13,3 @@
 <!--
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
 https://github.com/anuraghazra/github-readme-stats -->
-
-<!--
-## Quant Connect
-
-### Backtest
--->
-<!-- <script src='https://www.quantconnect.com/terminal/backtest.js?sid=6aff58f34f544ef36eda9fa1dd215f05'></script> -->
-
-<!-- ![[Strategy Equity Chart](https://www.efjerryyang.top/qc-backtesting-results/)](./assets/StockChart.png) -->
-<!-- <a href="https://www.efjerryyang.top/qc-backtesting-results/"><img src="./assets/StockChart.png" alt="StockChart" width="90%"/></a> -->
-
-<!--
-### Live Trading
-
-TODO
--->
