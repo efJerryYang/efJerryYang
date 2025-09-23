@@ -1,6 +1,6 @@
 ## About Me
 
-- I'm Jerry Yang, MS CSE (CS76) **@UCSD**. SDE Intern **@AWS** for Summer 2025.
+- I'm Jerry Yang, MS CSE (CS76) **@UCSD**. Ex-SDE Intern **@AWS** for Summer 2025.
 - Currently focusing on option trading and backend development, with a solid foundation in functional programming, operating systems and machine learning.
 - Interested in **@QuantConnect** and **@NautilusTrader** open-source trading engine and planed for future contributions.
 
