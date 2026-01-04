@@ -6,7 +6,7 @@
 
 ## GitHub Stats
 
-| <a href="https://github.com/efJerryYang/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=efJerryYang&count_private=true&show_icons=true&hide_border=true&theme=default" alt="efJerryYang's GitHub stats" /></a> | <a href="https://github.com/efJerryYang/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efJerryYang&hide=jupyter%20notebook,assembly,javascript&langs_count=6&layout=compact&hide_border=true" /></a>|
+| <a href="https://github.com/efJerryYang/"><img align="center" src="https://github-readme-stats-bice-pi-84.vercel.app/api?username=efJerryYang&count_private=true&show_icons=true&hide_border=true&theme=default" alt="efJerryYang's GitHub stats" /></a> | <a href="https://github.com/efJerryYang/"><img align="center" src="https://github-readme-stats-bice-pi-84.vercel.app/api/top-langs/?username=efJerryYang&hide=jupyter%20notebook,assembly,javascript&langs_count=6&layout=compact&hide_border=true" /></a>|
 | ----------------- | ----------------- |
 
 <!--
