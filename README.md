@@ -2,13 +2,8 @@
 
 - I'm Jerry Yang, SDE **@AWS**, MS CSE (CS76) **@UCSD**.
 
-- Exploring...
+- Praying to the gods we built...
 
-<!--
-- Ex-SDE Intern **@AWS** for Summer 2025.
-- Currently focusing on compilers and parallel computing, with a solid foundation in operating systems, computer networking and quantitative trading.
-- Interested in **@QuantConnect** and **@NautilusTrader** open-source trading engine and planed for future contributions.
--->
 
 ## GitHub Stats
 
