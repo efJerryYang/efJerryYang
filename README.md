@@ -4,7 +4,7 @@
 
 - Praying to the god we built...
 
-![](https://github.com/efJerryYang/efJerryYang/blob/main/assets/cumulative-progress-1997-2026-loglog.svg)
+![](https://github.com/efJerryYang/efJerryYang/blob/main/assets/cumulative-progress-1997-2026-log.svg)
 
 ## GitHub Stats
 
