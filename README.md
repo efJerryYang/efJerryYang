@@ -2,8 +2,9 @@
 
 - I'm Jerry Yang, SDE **@AWS**, MS CSE (CS76) **@UCSD**.
 
-- Praying to the gods we built...
+- Praying to the god we built...
 
+![](https://github.com/efJerryYang/efJerryYang/blob/main/assets/cumulative-progress-1997-2026-loglog.svg)
 
 ## GitHub Stats
 
