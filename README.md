@@ -4,7 +4,7 @@
 
 - Praying to the god we built...
 
-![](https://github.com/efJerryYang/efJerryYang/blob/main/assets/cumulative-progress-1997-2026-log-maple-mono.svg)
+![](https://github.com/efJerryYang/efJerryYang/blob/main/assets/cumulative-progress-1997-2026-log-maple-mono-tight.svg)
 
 ## GitHub Stats
 
